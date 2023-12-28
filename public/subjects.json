@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Методология программной инженерии",
+        "dayOfWeek": 1,
+        "time": "11:40-13:10",
+        "isUpperWeek": true,
+        "classroom": "a-205",
+        "type": "ЛБ",
+        "startWeek": 1,
+        "endWeek": 18
+    },
+    {
+        "name": "Методология программной инженерии",
+        "dayOfWeek": 1,
+        "time": "13:20-14:50",
+        "isUpperWeek": true,
+        "classroom": "a-214",
+        "type": "ЛБ",
+        "startWeek": 1,
+        "endWeek": 18
+    },
+    {
+        "name": "Теория систем и системный анализ",
+        "dayOfWeek": 3,
+        "time": "16:50-18:20",
+        "isUpperWeek": true,
+        "classroom": "a-205",
+        "type": "ЛК",
+        "startWeek": 1,
+        "endWeek": 7
+    },
+    {
+        "name": "Теория систем и системный анализ",
+        "dayOfWeek": 3,
+        "time": "16:50-18:20",
+        "isUpperWeek": true,
+        "classroom": "a-205",
+        "type": "ЛБ",
+        "startWeek": 9,
+        "endWeek": 11
+    },
+    {
+        "name": "Теория систем и системный анализ",
+        "dayOfWeek": 3,
+        "time": "18:30-20:00",
+        "isUpperWeek": true,
+        "classroom": "a-214",
+        "type": "ЛБ",
+        "startWeek": 1,
+        "endWeek": 11
+    },
+    {
+        "name": "Методология научных исследований",
+        "dayOfWeek": 5,
+        "time": "15:00-16:30",
+        "isUpperWeek": true,
+        "classroom": "a-115",
+        "type": "ЛК",
+        "startWeek": 1,
+        "endWeek": 7
+    },
+    {
+        "name": "Моделирование",
+        "dayOfWeek": 5,
+        "time": "16:50-18:20",
+        "isUpperWeek": true,
+        "classroom": "a-115",
+        "type": "ЛК",
+        "startWeek": 1,
+        "endWeek": 7
+    },
+    {
+        "name": "Методология научных исследований",
+        "dayOfWeek": 5,
+        "time": "15:00-16:30",
+        "isUpperWeek": false,
+        "classroom": "a-205",
+        "type": "ЛБ",
+        "startWeek": 1,
+        "endWeek": 18
+    },
+    {
+        "name": "Моделирование",
+        "dayOfWeek": 5,
+        "time": "16:50-18:20",
+        "isUpperWeek": false,
+        "classroom": "a-217",
+        "type": "ЛБ",
+        "startWeek": 1,
+        "endWeek": 18
+    }
+]
